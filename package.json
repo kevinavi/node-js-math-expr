@@ -1,0 +1,23 @@
+{
+  "name": "math-expr",
+  "version": "1.0.0",
+  "description": "A node js application exposing REST API to evaluate mathematical expressions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true",
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^2.2.16",
+    "postfix-calculator": "^0.0.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.3.0",
+    "nodemon": "^2.0.7"
+  }
+}
