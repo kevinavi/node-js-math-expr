@@ -25,6 +25,8 @@ Hosts on your local machine and you can have access to the APIs.
 
 Runs unit tests and integration tests using Mocha.
 
+### `Design Diagram`
+![alt text](https://github.com/kevinavi/node-js-math-expr/blob/main/Design.png)
 
 ### `How to hit endpoints`
 #### `To calculate a mathematical expression`
