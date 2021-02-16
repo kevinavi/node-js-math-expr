@@ -15,7 +15,7 @@ Postman
 ## `Stacks`
 ExpressJs
 
-Mocha
+Mocha (for testing)
 
 MongoDb
 
