@@ -31,7 +31,7 @@ Runs unit tests and integration tests using Mocha.
 Use POSTMAN, POST http://localhost:8000/calculate
 Body:
 {
-    expression:(78+98-34)+8-(6+8)
+    expression:(78+98-34)+8-(6+8),
     userId:100
 }
 
