@@ -1,6 +1,6 @@
 # node-js-math-expr
 A node js application exposing REST API to evaluate mathematical expressions.
-As of now, the scope is only for positive integers and decimals using *, /, +, - operators.
+As of now, the scope is only for POSITIVE INTEGERS and DECIMALS using *, /, +, - operators.
 
 ## `Pre-requisities`
 NodeJs
