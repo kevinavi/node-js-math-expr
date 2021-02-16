@@ -55,6 +55,7 @@ Result:
 
 #### `To know a which operator is most used by a user`
 Use POSTMAN, GET http://localhost:8000/operator/usage
+
 Body:
 
 {
