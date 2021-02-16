@@ -12,6 +12,13 @@ Yarn
 
 Postman
 
+## `Stacks`
+ExpressJs
+
+Mocha
+
+MongoDb
+
 Firstly, clone the project
 #### `git clone https://github.com/kevinavi/node-js-math-expr.git`
 
