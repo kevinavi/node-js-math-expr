@@ -45,6 +45,9 @@ Runs unit tests and integration tests using Mocha.
 ![alt text](https://github.com/kevinavi/node-js-math-expr/blob/main/Design.png)
 
 ### `How to hit endpoints`
+
+After running the project in your machine.
+
 #### `To calculate a mathematical expression`
 Use POSTMAN, POST http://localhost:8000/calculate
 
