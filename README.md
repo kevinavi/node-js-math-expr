@@ -3,6 +3,9 @@ A node js application exposing REST API to evaluate mathematical expressions.
 
 As of now, the scope is only for POSITIVE INTEGERS and DECIMALS and VALID expressions using *, /, +, - operators.
 
+Valid Expressions are 9+2, (8+6)-5, 45+23.9, 12*(2-3+4)/2.
+Non valid expressions are 9+2+, ((8+6-5 (these are yet to be handled).
+
 Future scope, need to add it for negative integers and if any expression is not valid then should return invalid.
 
 ## `Pre-requisities`
